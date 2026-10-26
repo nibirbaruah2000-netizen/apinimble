@@ -13,7 +13,7 @@ export const Route = createRootRoute({
         name: "viewport",
         content: "width=device-width, initial-scale=1, viewport-fit=cover, interactive-widget=resizes-content",
       },
-      { title: APP_NAME },
+      { title: APINimble },
       {
         name: "description",
         content: "APINimble is a private chat desk for your Gemini and Grok API keys.",
